@@ -6,7 +6,7 @@ _Challenge sobre maquetación._
 
 ![](https://img.shields.io/badge/%3E-HTML-important) ![](https://img.shields.io/badge/%3E-CSS-blue)
 
-## [MAQUETACION](https://javier-maquetacion.000webhostapp.com/) 🎨
+## [MAQUETACIÓN](https://javier-maquetacion.000webhostapp.com/) 🎨
 
 
 ## Modelo 🚀
